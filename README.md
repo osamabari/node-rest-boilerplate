@@ -162,4 +162,4 @@ sh ./deploy.sh
 
 ## License
 
-[MIT License](README.md) - [Osama Bari](https://github.com/osamabari)
+[MIT License](README.md) 
